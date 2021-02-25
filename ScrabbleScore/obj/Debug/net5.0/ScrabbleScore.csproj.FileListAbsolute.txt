@@ -1,0 +1,16 @@
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\bin\Debug\net5.0\ScrabbleScore.exe
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\bin\Debug\net5.0\ScrabbleScore.deps.json
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\bin\Debug\net5.0\ScrabbleScore.runtimeconfig.json
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\bin\Debug\net5.0\ScrabbleScore.runtimeconfig.dev.json
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\bin\Debug\net5.0\ScrabbleScore.dll
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\bin\Debug\net5.0\ref\ScrabbleScore.dll
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\bin\Debug\net5.0\ScrabbleScore.pdb
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\obj\Debug\net5.0\ScrabbleScore.csprojAssemblyReference.cache
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\obj\Debug\net5.0\ScrabbleScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\obj\Debug\net5.0\ScrabbleScore.AssemblyInfoInputs.cache
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\obj\Debug\net5.0\ScrabbleScore.AssemblyInfo.cs
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\obj\Debug\net5.0\ScrabbleScore.csproj.CoreCompileInputs.cache
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\obj\Debug\net5.0\ScrabbleScore.dll
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\obj\Debug\net5.0\ref\ScrabbleScore.dll
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\obj\Debug\net5.0\ScrabbleScore.pdb
+C:\Users\james\onedrive\desktop\epicodus\scrabble-score\scrabblescore.solution\scrabblescore\obj\Debug\net5.0\ScrabbleScore.genruntimeconfig.cache
